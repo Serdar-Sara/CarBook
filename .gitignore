@@ -5,6 +5,7 @@
 
 # dotenv files
 .env
+CarBook.Persistence/Context/CarBookContext.cs
 
 # User-specific files
 *.rsuser
