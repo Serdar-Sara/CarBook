@@ -13,6 +13,6 @@ namespace CarBook.Application.Interfaces
 
         Task CreateAsync(T entity);
         Task UpdateAsync(T entity);
-        Task DeleteAsync(int Id);
+        Task RemoveAsync(T entity);
     }
 }
